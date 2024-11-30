@@ -1,6 +1,6 @@
 👋 Hello, world!
 
-I'm Emmanuel Njihia Ndua, a multifaceted Software Engineer, FlutterFlow Mobile Developer, Cybersecurity Expert, and Agile Project Manager. Beyond these realms, I take pride in leading the ALX Robotics Club, where innovation meets collaboration to solve complex problems and push the boundaries of what's possible with robotics.
+I'm MANUEL, a multifaceted Software Engineer, FlutterFlow Mobile Developer, Cybersecurity Expert, and Agile Project Manager. Beyond these realms, I take pride in leading the ALX Robotics Club, where innovation meets collaboration to solve complex problems and push the boundaries of what's possible with robotics.
 
 As an ALX Africa alumnus, I've honed my skills at one of Africa’s foremost software engineering schools, emerging not just as a software engineer but as a visionary problem solver dedicated to creating secure, innovative products and fostering the next wave of tech talent.
 
